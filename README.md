@@ -32,6 +32,15 @@
 
 ![url](https://github.com/Raii-Azevedo/desafioCelero/blob/master/desafio/images/rotas.jpeg)
 - Rotas padrão e de modelagem da views do Django
+
+![api](https://github.com/Raii-Azevedo/desafioCelero/blob/master/desafio/images/api%20vazia.jpeg)
+- Onde automáticamente cria a rota com o link para a função "Upload Data"
+
+![data](https://github.com/Raii-Azevedo/desafioCelero/blob/master/desafio/images/api%20data.jpeg)
+
+## Conclusão
+Falha de reconhecimento do CSS no deploy do Heroku
+- Não FInalizada
  
 ## Links
  
