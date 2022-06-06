@@ -1,4 +1,4 @@
-![API]()
+[API]()
  
 ## Desafio Celero
  
@@ -6,7 +6,7 @@
 - The goal was to create a rest API to serve the data from the “120 years of Olympic history: athletes and results” dataset present in Kaggle:
 
 ## Tecnologia
- ![Requirements](https://github.com/Raii-Azevedo/desafioCelero/blob/master/requirements.txt)
+ [Requirements](https://github.com/Raii-Azevedo/desafioCelero/blob/master/requirements.txt)
  
  ### Sendo:
  dj-database-url==0.5.0 -> Para auxiliar na migração do DB para o Heroku.
