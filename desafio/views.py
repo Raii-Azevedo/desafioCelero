@@ -84,4 +84,3 @@ class AthleteViewSet(viewsets.ModelViewSet):
 
 
 
-
